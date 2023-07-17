@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.name{
+  color: red;
+}
+
+.reverse-form-check {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.alert-success{
+  color: #3c763d;
+  background-color: #dff0d8;
+  border-color: #d6e9c6;
+}
