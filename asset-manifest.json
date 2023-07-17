@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ShriyaUppal/Create-React-App/static/css/main.2c4530a6.css",
+    "main.js": "/ShriyaUppal/Create-React-App/static/js/main.2ba2ac99.js",
+    "static/js/787.719ec76d.chunk.js": "/ShriyaUppal/Create-React-App/static/js/787.719ec76d.chunk.js",
+    "index.html": "/ShriyaUppal/Create-React-App/index.html",
+    "main.2c4530a6.css.map": "/ShriyaUppal/Create-React-App/static/css/main.2c4530a6.css.map",
+    "main.2ba2ac99.js.map": "/ShriyaUppal/Create-React-App/static/js/main.2ba2ac99.js.map",
+    "787.719ec76d.chunk.js.map": "/ShriyaUppal/Create-React-App/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c4530a6.css",
+    "static/js/main.2ba2ac99.js"
+  ]
+}
